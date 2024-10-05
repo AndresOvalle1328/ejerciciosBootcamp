@@ -1,0 +1,29 @@
+{
+    "nombre": "Juliana",
+    "edad": 15,
+    "ciudad": "Bogota",
+    "sitiosFavoritos":[
+        {
+            "nombre":"puente de Boyaca",
+            "ubicacion":"tunja",
+            "descripcion":"visitamos el monumento historico",
+            "valorVisita":80000
+        },
+        {
+            "nombre":"villa de leyva",
+            "ubicaion":"villa de leyva",
+            "descripcion":"pueblo colonial",
+            "valorVisita":200000
+        },
+        {
+            "nombre":"Pantano de vargas",
+            "ubicaion":"paipa",
+            "descripcion":"Monumento batalla del pantano",
+            "valorVisita":100000
+        }
+    ],
+    "fechaNacimiento":"1990-07-01"
+   
+    
+
+}
